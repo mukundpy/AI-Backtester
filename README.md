@@ -4,9 +4,12 @@
 
 **Built by:** Mukund Chaurasiya | **Status:** v1.0 — Internship Review Build
 
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Streamlit_App-FF4B4B?style=for-the-badge&logo=streamlit)](https://ai-trading-backtester.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.25+-red.svg)](https://streamlit.io)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+### 🌐 [https://ai-trading-backtester.streamlit.app/](https://ai-trading-backtester.streamlit.app/)
 
 ---
 
