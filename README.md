@@ -2,7 +2,7 @@
 
 > Simulate, compare, and validate trading strategies on Indian (NSE) equities — with a Hybrid AI model stack, GARCH volatility layer, walk-forward validation, and zero look-ahead bias.
 
-**Built by:** Mukund Chaurasiya | **Status:** v1.0 — Internship Review Build
+**Built by:** Mukund Chaurasiya 
 
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Streamlit_App-FF4B4B?style=for-the-badge&logo=streamlit)](https://ai-trading-backtester.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
